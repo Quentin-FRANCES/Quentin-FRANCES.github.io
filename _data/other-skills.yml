@@ -1,0 +1,27 @@
+- name: Français
+  percentage: 100
+  color:
+
+- name: Anglais
+  percentage: 70
+  color:
+
+- name: Italien
+  percentage: 40
+  color:
+
+- name: Permis B
+  percentage: 100
+  color:
+
+- name: Habilitation Electrique B1V
+  percentage: 90
+  color:
+
+- name: Brevet d'Initiation à l'Aéronautique (BIA) Mention Très Bien
+  percentage: 100
+  color:
+
+- name: Formation aux premiers secours PSC1
+  percentage: 90
+  color:

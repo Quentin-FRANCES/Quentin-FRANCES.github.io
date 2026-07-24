@@ -1,0 +1,23 @@
+- name: KiCad
+  percentage: 90
+  color: danger
+
+- name: Cadence (OrCad/Allegro/PSPICE)
+  percentage: 70
+  color: 
+
+- name: PADS
+  percentage: 30
+  color: secondary
+
+- name: LTSPICE
+  percentage: 95
+  color: danger
+
+- name: Maîtrise de l'environnement STM32
+  percentage: 80
+  color:
+
+- name: FPGA - Quartus (Intel FPGA)
+  percentage: 60
+  color: secondary

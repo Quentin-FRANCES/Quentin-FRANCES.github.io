@@ -1,0 +1,15 @@
+- name: C
+  percentage: 90
+  color: danger
+
+- name: Python
+  percentage: 60
+  color:
+
+- name: Assembly (ARM)
+  percentage: 30
+  color: secondary
+
+- name: VHDL
+  percentage: 60
+  color: 
