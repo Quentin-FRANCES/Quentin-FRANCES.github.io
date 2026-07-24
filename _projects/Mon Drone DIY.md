@@ -1,5 +1,5 @@
 ---
-name: Mon Drone DIY
+name: HARDWARE TEST
 type: hardware
 tools: [STM32, KiCad, FreeRTOS]
 image: 
