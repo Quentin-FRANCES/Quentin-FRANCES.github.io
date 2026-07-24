@@ -3,15 +3,19 @@
   color: danger
 
 - name: Linux/Bash/Scripts
-  percentage : 70
-  color :
+  percentage: 70
+  color:
+
+- name: Git and Github/Gitlab
+  percentage: 90
+  color: danger
 
 - name: Python
   percentage: 60
   color:
 
 - name: Assembly (ARM)
-  percentage: 30
+  percentage: 40
   color: secondary
 
 - name: VHDL

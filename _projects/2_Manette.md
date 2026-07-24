@@ -10,7 +10,7 @@ description: Création d'une manette de jeu en USB
 
 Ce projet s'inscrit dans un projet académique lors de la 3ème année à l'INSA Rennes. Nous avons du réalisé un jeu, codé en C. Pour plus d'immersion, j'ai décidé de developper une manette, basé sur une NucleoL412KB, alimenté via USB. Ce projet m'a permis d'en apprendre plus sur le protocole utilisé par l'USB, ainsi que sur les bonnes méthodes de routage concernant les alimentations à découpages.
 
-Vous retrouverez le code en C écrit sur la carte Nucleo [ici](https://github.com/Quentin-FRANCES/PAS-QUE-MAN/tree/main/uC_Part/Console/FIRMWARE).
+Vous retrouverez le code en C écrit sur la carte Nucleo [ici](https://github.com/Quentin-FRANCES/PAS-QUE-MAN/tree/main/uC_Part/Manette/FIRMWARE).
 
 *Schéma :*
 
