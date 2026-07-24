@@ -2,6 +2,10 @@
   percentage: 90
   color: danger
 
+- name: Linux/Bash/Scripts
+  percentage : 70
+  color :
+
 - name: Python
   percentage: 60
   color:
