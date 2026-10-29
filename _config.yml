@@ -3,6 +3,7 @@ title               : Quentin Frances
 description         : >-
                       Elève-Ingénieur en Electronique et Informatique Industrielle
                       à l'INSA Rennes - 4ème Année - FRANCE.
+                      Mon CV se trouve dans l'onglet "About" !
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Quentin-FRANCES/Quentin-FRANCES.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
