@@ -19,5 +19,5 @@
   color:
 
 - name: FPGA - Quartus (Intel FPGA)
-  percentage: 60
+  percentage: 70
   color: secondary
