@@ -14,7 +14,7 @@ Pour pouvoir utiliser une vieille chaîne HI-FI avec Spotify ou en Bluetooth, j'
 
 *Schéma :*
 
-![Schéma](/assets/ESP32_Streamer/SCH.pdf)
+![Schéma](/assets/ESP32_Streamer/SCH.jpg)
 
 *Routage :*
 
